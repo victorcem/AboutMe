@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Victor Otavio</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, my name is Victor.\n
+        \nI love games.\n
+        \nThe first game I finished was Aladdin from the Super Nintendo, one of the best experiences of my life.\n
+        \nThe curious thing is that only after I got old I finished Super Mario World.\n
+        \nI also like zelda, the most amazing game to play! Seriously it\'s the best in the world!\n
+        \nAnd sometimes I even play pokemon.\n
+        \nAnd even less sometimes, I actually catch something.\n
+        \nOnce, when I was playing in Johto and with a lot of luck, I even took a big margikarp with my hands.\n
+        \nI may have exaggerated, but I caught it with an old fishing rod.\n
+        \nYou must be wondering how he did it? I answer! Simple … It\'s just … Oops I forgot!\n\n</string>
+    <string name="avatar_gamer">Avatar Gamer</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
